@@ -1,0 +1,14 @@
+h1 {
+    color: red#333;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    }
+    p {
+    color: #666;
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 10px 0;
+    boarder: 1px solid #a92323;
+    padding: 10px;
+    }

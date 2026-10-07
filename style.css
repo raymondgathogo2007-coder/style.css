@@ -1,0 +1,91 @@
+h1 {
+    color: red;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    text aligment: center;
+    }
+
+    p {
+    color:blue #666;
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 10px 0;
+    border: 1px solid #a92323;
+    padding: 10px;
+}
+
+.section {
+    background-color:blue #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.aboutray{
+    background-color: #19f052;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(60, 65, 153, 0.436);
+}
+
+.About Ray {
+    background-color: #19f052;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(60, 65, 153, 0.436);
+}
+.class {
+    background-color: #d29e10;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(27, 36, 206, 0.436);
+    text-align: center;
+
+}
+
+p {
+    color: #702a2a;
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 10px 0;
+    border: 1px solid #a92323;
+    padding: 10px;
+    background-color: #c50303;
+    border-left: 5px solid #6b902a;
+}
+#section-2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 200px;
+}
+
+font-family: Arial, sans-serif;
+
+position: relative;
+
+
+
+
+
+
+
+#section-s
+media query (max-width: 375px) {
+    #section-2 {
+        height: 150px;
+    }
+    background-color:blue #f9f9f9;
+    .section {
+        padding: 0px;
+    }
+
+    .about-ray {
+        padding: 100px;
+    }
+
+    .class {
+        padding: 20px;
+    }
+}
